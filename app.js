@@ -1,5 +1,5 @@
-import { randomRobot, runRobot } from "./robot.js";
 import { VillageState } from "./village.js";
+import { randomRobot, runRobot } from "./robot.js";
 
 // let first = new VillageState("Post Office",
 //     [{place: "Post Office", address: "Alice's House"}]
