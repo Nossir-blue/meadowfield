@@ -10,4 +10,3 @@ import { randomRobot, runRobot } from "./robot.js";
 // console.log(next.parcels);
 // console.log(first.place);
 
-runRobot(VillageState.random(), randomRobot)
